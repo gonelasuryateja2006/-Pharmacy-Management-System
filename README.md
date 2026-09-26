@@ -6,8 +6,6 @@ A Python desktop application for maintaining medicine records, customer or hospi
 **Institution:** SRM Institute of Science and Technology, Kattankulathur  
 **Expected graduation:** 2029
 
-This is an educational adaptation of an existing project. See [Acknowledgements](#acknowledgements) for the original source.
-
 ## Overview
 
 The application uses Tkinter for its desktop interface and MySQL for persistent data storage. It includes separate login, medicine-management, and invoice windows.
