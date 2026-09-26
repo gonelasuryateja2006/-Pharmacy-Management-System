@@ -234,12 +234,6 @@ Expected graduation: **2029**
 
 This adaptation is used to learn Python desktop development, MySQL integration, debugging, and project documentation.
 
-## Acknowledgements
-
-Based on the [Pharmacy Management System Python–MySQL project by NandhaKumar1720](https://github.com/NandhaKumar1720/Pharmacy-Management-System-Python-MySQL-Project-).
-
-Credit for the original application remains with its original author. Local setup, configuration, and documentation have been adapted for this learning project. Retain applicable notices and check the original repository's license terms before redistribution; this README does not grant a new license to the original code.
-
 ## Educational use
 
 Use fictional demonstration data. This project is a learning prototype and has not been validated for real pharmacy operations or sensitive customer records.
