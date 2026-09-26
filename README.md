@@ -183,14 +183,6 @@ Remove paths tied to the original author's computer, including paths for opening
 .\.venv\Scripts\python.exe "Login Page.py"
 ```
 
-Demo login:
-
-| Field | Value |
-| --- | --- |
-| Username | `agent` |
-| Password | `pharma` |
-
-These are fixed demo credentials, separate from the MySQL password. The current login does not provide user registration, password hashing, or role-based access control.
 
 ## Suggested verification
 
